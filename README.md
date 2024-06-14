@@ -11,3 +11,6 @@ Create teams to compete to be the best. This plugin is designed to encourage tea
 
 [View the wiki for this project](https://booksaw.github.io/BetterTeams/)
 [Looking for the Discord Server for support?](https://discord.gg/JF9DNs3)
+
+Folia fork:
+Please use this Folia fork with extreme caution! There may be many things broken
